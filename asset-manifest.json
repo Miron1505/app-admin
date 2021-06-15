@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Miron1505/Miron-Medrano/static/js/main.41fa5028.chunk.js",
+    "main.js.map": "/Miron1505/Miron-Medrano/static/js/main.41fa5028.chunk.js.map",
+    "runtime-main.js": "/Miron1505/Miron-Medrano/static/js/runtime-main.f9d4e76b.js",
+    "runtime-main.js.map": "/Miron1505/Miron-Medrano/static/js/runtime-main.f9d4e76b.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Miron1505/Miron-Medrano/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.140a185f.chunk.js": "/Miron1505/Miron-Medrano/static/js/2.140a185f.chunk.js",
+    "static/js/2.140a185f.chunk.js.map": "/Miron1505/Miron-Medrano/static/js/2.140a185f.chunk.js.map",
+    "index.html": "/Miron1505/Miron-Medrano/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Miron1505/Miron-Medrano/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.140a185f.chunk.js.LICENSE.txt": "/Miron1505/Miron-Medrano/static/js/2.140a185f.chunk.js.LICENSE.txt",
+    "static/media/mobileApp.png": "/Miron1505/Miron-Medrano/static/media/mobileApp.20f9fdd1.png",
+    "static/media/myApp.png": "/Miron1505/Miron-Medrano/static/media/myApp.b51bc8c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9d4e76b.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.140a185f.chunk.js",
+    "static/js/main.41fa5028.chunk.js"
+  ]
+}
